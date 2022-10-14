@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - Prints the size of various types on the computer
+ * main - Prints the size
+ * Package runs on size 32
+ * Package runs on size 64
  * Return: Nothing
  */
 
