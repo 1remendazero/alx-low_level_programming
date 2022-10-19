@@ -2,11 +2,9 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- *
  * main - main functon to generate a random number
  *
- * Rerurn: Always 0 (success)
- *
+ * Return: Always 0 (success)
  */
 int main(void)
 {
@@ -30,4 +28,4 @@ int main(void)
 		printf("%d and is 0\n", num);
 	}
 	return (0);
-}
+
