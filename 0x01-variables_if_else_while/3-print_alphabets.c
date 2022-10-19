@@ -2,15 +2,13 @@
 #include <stdlib.h>
 
 /**
- *
- * Return - returnsalphabets both lower and upper cases
- *
+ * main - returns alphabets both lower and upper cases
  * Return: Always 0 (success)
  */
 int main(void)
 {
 	int ch
-	
+
 	for (ch = 'a'; ch <= 'z'; ch++)
 		putchar(ch);
 	for (ch = 'A'; ch <= 'Z'; ch++)
